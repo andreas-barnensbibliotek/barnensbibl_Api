@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Table>
+  <devkey>
+    <devkey_id>1</devkey_id>
+    <devkey_name>alf</devkey_name>
+    <devkey_author>199225399499599699799899999</devkey_author>   
+  </devkey>
+  <devkey>
+    <devkey_id>2</devkey_id>
+    <devkey_name>Barnbibblan</devkey_name>
+    <devkey_author>100200300430530600700800900</devkey_author>
+  </devkey>
+  <devkey>
+    <devkey_id>3</devkey_id>
+    <devkey_name>svea</devkey_name>
+    <devkey_author>100200300400500600700800900</devkey_author>
+  </devkey>
+  <devkey>
+    <devkey_id>4</devkey_id>
+    <devkey_name>bibblan</devkey_name>
+    <devkey_author>100200303400500600700800900</devkey_author>
+  </devkey>
+  <devkey>
+    <devkey_id>5</devkey_id>
+    <devkey_name>barnensbooktip_open</devkey_name>
+    <devkey_author>120200303499500600700800900</devkey_author>
+  </devkey>
+</Table>

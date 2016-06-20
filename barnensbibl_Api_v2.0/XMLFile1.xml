@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BarnensBoktips xmlns="http://www.barnensbibliotek.se" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">  
+  <booktips>
+    <TipID>987</TipID>
+    <Title>Dra åt skogen Sune</Title>
+    <Bookid>20768</Bookid>
+    <Author>Anders Jacobsson</Author>
+    <HighAge>11</HighAge>
+    <LowAge>7</LowAge>
+    <Review>&amp;#60;p&amp;#62;Den handlar om att Sune och hans familj och Sofies familj ska ut och campa men familjerna blir helt pl&amp;ouml;tsligt ov&amp;auml;nner Sune och Sofie f&amp;ouml;rs&amp;ouml;ker reda ut det. Sune och Sofie hittar en sten&amp;aring;ldersgrotta...&amp;#60;/p&amp;#62;</Review>
+    <UserName>Mille</UserName>
+    <Userid>26467</Userid>
+    <Category>14</Category>
+    <ImgSrc>http://www.barnensbibliotek.net/Portals/0/bokomslag/9789174058550.jpg</ImgSrc>
+    <Approved>1</Approved>
+    <Inserted>2014-11-07T00:00:00</Inserted>
+    <Status>ja</Status>
+  </booktips>
+</BarnensBoktips>
