@@ -37,5 +37,21 @@ barnensbibl_Api_v2.0
  Returns the Asp log object.
  </summary>
 </member>
+<member name="T:barnensbibl_Api_v2._0.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:barnensbibl_Api_v2._0.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:barnensbibl_Api_v2._0.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
 </members>
 </doc>

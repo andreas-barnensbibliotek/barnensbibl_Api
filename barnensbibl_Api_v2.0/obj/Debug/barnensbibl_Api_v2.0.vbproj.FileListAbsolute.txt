@@ -69,12 +69,12 @@ D:\wwwroot\BarnensbibliotekServiceAPI_v2\barnensbibl_Api_v2.0\barnensbibl_Api_v2
 D:\wwwroot\BarnensbibliotekServiceAPI_v2\barnensbibl_Api_v2.0\barnensbibl_Api_v2.0\bin\System.Web.WebPages.Razor.xml
 D:\wwwroot\BarnensbibliotekServiceAPI_v2\barnensbibl_Api_v2.0\barnensbibl_Api_v2.0\bin\Thinktecture.IdentityModel.pdb
 D:\wwwroot\BarnensbibliotekServiceAPI_v2\barnensbibl_Api_v2.0\barnensbibl_Api_v2.0\bin\Thinktecture.IdentityModel.xml
-D:\wwwroot\BarnensbibliotekServiceAPI_v2\barnensbibl_Api_v2.0\barnensbibl_Api_v2.0\obj\Debug\barnensbibl_Api_v2.0.vbprojResolveAssemblyReference.cache
 D:\wwwroot\BarnensbibliotekServiceAPI_v2\barnensbibl_Api_v2.0\barnensbibl_Api_v2.0\obj\Debug\barnensbibl_Api_v2._0.Resources.resources
 D:\wwwroot\BarnensbibliotekServiceAPI_v2\barnensbibl_Api_v2.0\barnensbibl_Api_v2.0\obj\Debug\barnensbibl_Api_v2.0.vbproj.GenerateResource.Cache
 D:\wwwroot\BarnensbibliotekServiceAPI_v2\barnensbibl_Api_v2.0\barnensbibl_Api_v2.0\obj\Debug\barnensbibl_Api_v2.0.dll
 D:\wwwroot\BarnensbibliotekServiceAPI_v2\barnensbibl_Api_v2.0\barnensbibl_Api_v2.0\obj\Debug\barnensbibl_Api_v2.0.xml
 D:\wwwroot\BarnensbibliotekServiceAPI_v2\barnensbibl_Api_v2.0\barnensbibl_Api_v2.0\obj\Debug\barnensbibl_Api_v2.0.pdb
+D:\wwwroot\BarnensbibliotekServiceAPI_v2\barnensbibl_Api_v2.0\barnensbibl_Api_v2.0\obj\Debug\barnensbibl_Api_v2.0.vbprojResolveAssemblyReference.cache
 D:\devprojekt\api\barnensbibl_Api_v2.0\barnensbibl_Api_v2.0\bin\barnensbibl_Api_v2.0.dll.config
 D:\devprojekt\api\barnensbibl_Api_v2.0\barnensbibl_Api_v2.0\bin\barnensbibl_Api_v2.0.dll
 D:\devprojekt\api\barnensbibl_Api_v2.0\barnensbibl_Api_v2.0\bin\barnensbibl_Api_v2.0.pdb

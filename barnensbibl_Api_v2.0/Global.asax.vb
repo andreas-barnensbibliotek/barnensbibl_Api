@@ -64,6 +64,17 @@ Public Class Global_asax
                                       "Api_v2/{controller}_v2/",
                                       defaults:=New With {.value = System.Web.Http.RouteParameter.Optional})
 
+        RouteTable.Routes.MapHttpRoute("Api_v2.0_Type_page_devkey",
+                                      "Api_v2/{controller}/{typ}/{value}/page/{page}/devkey/{devkey}",
+                                      defaults:=New With {.typ = System.Web.Http.RouteParameter.Optional, .value = System.Web.Http.RouteParameter.Optional, .page = System.Web.Http.RouteParameter.Optional, .devkey = System.Web.Http.RouteParameter.Optional})
+        RouteTable.Routes.MapHttpRoute("Api_v2.0_Type_devkey",
+                                      "Api_v2/{controller}/{typ}/{value}/devkey/{devkey}",
+                                      defaults:=New With {.typ = System.Web.Http.RouteParameter.Optional, .value = System.Web.Http.RouteParameter.Optional, .devkey = System.Web.Http.RouteParameter.Optional})
+        RouteTable.Routes.MapHttpRoute("Api_v2.0_Type_advancedSearch",
+                                   "Api_v2/{controller}/{typ}/page/{page}/devkey/{devkey}",
+                                      defaults:=New With {.typ = System.Web.Http.RouteParameter.Optional, .devkey = System.Web.Http.RouteParameter.Optional})
+
+
     End Sub
 
     Sub Session_Start(ByVal sender As Object, ByVal e As EventArgs)
