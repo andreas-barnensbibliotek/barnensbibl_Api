@@ -6,7 +6,7 @@ Public Class katalogenGetlists
 
     Public Function getkatalogenbyCatid(catid As Integer, requestedpage As Integer, Optional isfromstart As Boolean = False) As katalogenbooklistInfo
         Dim booklistobjcontroller As New AjKatalogenLibMainController()
-        Dim resultSet As List(Of bookdetailbaseInfo) = booklistobjcontroller.katalogenMainCategoryItemList(catid)
+        Dim resultSet As List(Of bookdetailbaseInfo) = booklistobjcontroller.katalogenMainCategoryItemList(catid, requestedpage)
 
         Dim retbooklistobj As katalogenbooklistInfo = checkifpostinRecordset(requestedpage, isfromstart, resultSet)
 
@@ -15,7 +15,7 @@ Public Class katalogenGetlists
 
     Public Function getkatalogenbyAmnesid(Amnid As Integer, requestedpage As Integer, Optional isfromstart As Boolean = False) As katalogenbooklistInfo
         Dim booklistobjcontroller As New AjKatalogenLibMainController()
-        Dim resultSet As List(Of bookdetailbaseInfo) = booklistobjcontroller.katalogenMainAmnesItemList(Amnid)
+        Dim resultSet As List(Of bookdetailbaseInfo) = booklistobjcontroller.katalogenMainAmnesItemList(Amnid, requestedpage)
 
         Dim retbooklistobj As katalogenbooklistInfo = checkifpostinRecordset(requestedpage, isfromstart, resultSet)
 
